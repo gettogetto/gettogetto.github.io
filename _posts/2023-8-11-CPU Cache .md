@@ -34,7 +34,7 @@ CPU 写数据如果 Cache 未命中，则只能直接去更新主存。但更新
 
 实际中为了性能 hash 函数都非常简单，就是从内存地址读取固定的几个 bit 数据作为 cache line 的 index。拿下图为例，cache line 大小为 4 字节，一共 32 bit 是图中的 Data 字段。4 字节一共需要 2 bit 用于寻址，所以看到 32 bit 的地址中，0 1 两个 bit 作为 offset。2 ~ 11 bit 作为 cache line 的 index 一共 1024 个，12 ~ 31 bit 作为 tag 用于区分映射到相同 cache line 的不同内存 block。比如现在要读取的地址是 0x1124200F，先从地址中取 2 ~ 11 bit 得到 0x03 表示目标 cache line 的 index 是 3，之后从地址中读 12 ~ 31 bit 作为 tag 是 0x11242。拿这个 tag 跟 index 为 3 的 cache line 的 tag 做比较看是否一致，一致则表示当前 cache line 中包含目标地址，不一致则表示当前 cache line 中没有目标地址。因为 cache 比内存小很多，所以可能出现多个不在同一 cache line 的内存地址被映射到同一个 cache line 的情况，所以需要用 tag 做区分。最后，如果目标地址确实在 cache line，且 cache line 的 valid 为 true，则读取 0x1124200F 地址的 0 ~ 1 bit，得到 0x03 表示读取当前 cache line 中最后一个字节的数据。
 
-[![](https://ylgrgyq.github.io/2018/01/15/cache-structure/direct-mapped.png)](https://ylgrgyq.github.io/2018/01/15/cache-structure/direct-mapped.png "图来自：http://opass.logdown.com/posts/249025-discussion-on-memory-cache")图来自：http://opass.logdown.com/posts/249025-discussion-on-memory-cache
+[![[../assets/img/dd4e61ae84d2992ed19f8fe5a11b6aab_MD5.png]]](https://ylgrgyq.github.io/2018/01/15/cache-structure/direct-mapped.png "图来自：http://opass.logdown.com/posts/249025-discussion-on-memory-cache")图来自：http://opass.logdown.com/posts/249025-discussion-on-memory-cache
 
 上图的 Cache 是 1024 X 4 字节 一共 4 KB。但由于 Tag 和 Valid 的存在，缓存实际占用的空间还会更大。
 
@@ -50,7 +50,7 @@ CPU 写数据如果 Cache 未命中，则只能直接去更新主存。但更新
 
 这里并发的验证两个 cache line 的 tag 是由硬件来保证，硬件电路结构会更加复杂但查询效率与 Direct Mapped Cache 一致。
 
-[![](https://ylgrgyq.github.io/2018/01/15/cache-structure/two-way.png)](https://ylgrgyq.github.io/2018/01/15/cache-structure/two-way.png "图来自：PerfBook https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html")图来自：PerfBook https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
+[![[../assets/img/d90fbe39eade6c855d4b35c065549564_MD5.png]]](https://ylgrgyq.github.io/2018/01/15/cache-structure/two-way.png "图来自：PerfBook https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html")图来自：PerfBook https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
 
 Set 内的两个 cache line 是具有相同 index 的两个不同 cache line。比如还是按 0x1124200F 目标地址来举例，该地址和 0x9124200F 地址的 2 ~ 11 bit 位完全相同，即从 0x1124200C 到 0x1124200F 这 4 个字节的内存，和从 0x9124200C 到 0x9124200F 这 4 个字节的内存映射到了 cache 中的同一个 index 下。这两个 cache line 能放在一个 Set 内，在访问时能同时被比较 tag。
 

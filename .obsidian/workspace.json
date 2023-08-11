@@ -11,12 +11,8 @@
             "id": "733d9e55eabae513",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-8-11-操作系统底层特权级机制详述.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-11-操作系统底层特权级机制详述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-11-操作系统底层特权级机制详述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-8-11-操作系统底层特权级机制详述.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,30 +135,31 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
   "active": "733d9e55eabae513",
   "lastOpenFiles": [
-    "_resources/2023-8-11-操作系统底层特权级机制详述/bfe9ba03fe51b23a091df435ad639187_MD5.png",
-    "_resources/2023-8-11-操作系统底层特权级机制详述/ef4e39ff196aa5b483a44711bff46b9c_MD5.png",
-    "_resources/2023-8-11-操作系统底层特权级机制详述/4dce2e69caf73e2e2b84a40667947b66_MD5.png",
-    "_resources/2023-8-11-操作系统底层特权级机制详述/000de48b5dcd9ede9ca4c75b7d95cf47_MD5.png",
-    "_resources/2023-8-11-操作系统底层特权级机制详述/227cbf2af57beead19f57f9d9531e717_MD5.png",
-    "_resources/2023-8-11-操作系统底层特权级机制详述/c607d6cd9b739764c008a32a8b16b0e5_MD5.png",
-    "_resources/2023-8-11-操作系统底层特权级机制详述/60d79230394f9e9ed461b8775a6e1343_MD5.png",
-    "_resources/2023-8-11-操作系统底层特权级机制详述/b0ee660e9cfaf8e1ae560c346e2864a7_MD5.png",
+    "assets/img/3b79aa776b7596098f11b5c1ecc8359b_MD5.svg",
+    "assets/img/8d9ec54d23e85e0dab09bd3a55dc51a9_MD5.gif",
+    "assets/img/d90fbe39eade6c855d4b35c065549564_MD5.png",
+    "assets/img/dd4e61ae84d2992ed19f8fe5a11b6aab_MD5.png",
+    "assets/img/4f8fe2f32b73a29c089287dceb31276d_MD5.jpg",
+    "assets/img/8e4c16f41c7f5646e3541026b820b55a_MD5.png",
+    "assets/img/e0351066a121356d2af7835df8f02040_MD5.png",
+    "assets/img/227cbf2af57beead19f57f9d9531e717_MD5.png",
+    "assets/img/c607d6cd9b739764c008a32a8b16b0e5_MD5.png",
+    "assets/img/60d79230394f9e9ed461b8775a6e1343_MD5.png",
+    "assets/img/b0ee660e9cfaf8e1ae560c346e2864a7_MD5.png",
+    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
+    "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
+    "_posts/2023-8-11-xHook.md",
+    "_posts/2023-8-11-CPU Cache .md",
     "_resources/2023-8-11-操作系统底层特权级机制详述",
-    "_resources/2023-8-11-动态链接及地址无关代码 (PIC)/5c6d5a51f647df4127d5ab1ac5e2d2ae_MD5.jpg",
-    "_resources/2023-8-11-动态链接及地址无关代码 (PIC)/ba9ed82a62fe4cacdca43a8f36290ba7_MD5.jpg",
-    "_resources/2023-8-11-动态链接及地址无关代码 (PIC)/ff588e3f7795e126d5bfd6f8cd6accf0_MD5.jpg",
     "_resources/2023-8-11-动态链接及地址无关代码 (PIC)",
     "_resources/2023-8-11-xHook",
     "_resources",
-    "_posts/2023-8-11-CPU Cache .md",
-    "_posts/2023-8-11-xHook.md",
-    "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
-    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "_posts/2023-8-11-操作系统底层特权级机制详述 - 代码信条 - Code Belief.md",
     "_resources/2023-8-11-CPU Cache _ A Blog",
     "_resources/2023-8-11-xHook_docs_overview_android_plt_hook_overview",

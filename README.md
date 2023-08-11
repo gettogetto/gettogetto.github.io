@@ -1,6 +1,6 @@
 # Beautiful Jekyll
 
-[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
+[![[assets/img/3b79aa776b7596098f11b5c1ecc8359b_MD5.svg]]](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
 
@@ -61,7 +61,7 @@ Getting started is *literally* as easy as 1-2-3 :smile:
 
 Scroll down to see the steps involved, but here is a 30-second video just as a reference as you work through the steps. If you don't already have a [GitHub account](https://github.com), you'll need to sign up.
 
-![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
+![[assets/img/8d9ec54d23e85e0dab09bd3a55dc51a9_MD5.gif]]
 
 ### 1. Fork this project
 
