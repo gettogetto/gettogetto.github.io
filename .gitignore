@@ -3,6 +3,12 @@ _site
 .sass-cache
 .vagrant
 
+/obsidian/*
+!/obsidian/_posts
+!/obsidian/_resources
+/obsidian/_posts/*
+!/obsidian/_posts/*.md
+
 # general
 .DS_Store
 Thumbs.db
