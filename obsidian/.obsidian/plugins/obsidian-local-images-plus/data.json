@@ -3,7 +3,7 @@
   "ignoredExt": "cnt|php|htm|html",
   "processAll": true,
   "useCaptions": false,
-  "pathInTags": "fullDirPath",
+  "pathInTags": "onlyRelative",
   "downUnknown": false,
   "saveAttE": "inFolderBelow",
   "realTimeUpdate": false,
