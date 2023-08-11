@@ -13,7 +13,7 @@
   "addNameOfFile": true,
   "showNotifications": true,
   "include": ".*\\.md",
-  "mediaRootDir": "/assets/img",
+  "mediaRootDir": "/assets/img/${notename}",
   "disAddCom": false,
   "useMD5ForNewAtt": true,
   "removeMediaFolder": true,
