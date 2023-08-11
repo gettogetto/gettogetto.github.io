@@ -2,7 +2,7 @@
   "processCreated": true,
   "ignoredExt": "cnt|php|htm|html",
   "processAll": true,
-  "useCaptions": false,
+  "useCaptions": true,
   "pathInTags": "fullDirPath",
   "downUnknown": false,
   "saveAttE": "inFolderBelow",
