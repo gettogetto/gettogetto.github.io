@@ -4,24 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "b286121b6d75a579",
+        "id": "45918c2d11504ef8",
         "type": "tabs",
         "children": [
           {
-            "id": "5f48ca7e0aa7f937",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0dee03986e482c7d",
+            "id": "372c4bfef5d4a5b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hook.md",
+                "file": "_posts/2023-8-11-操作系统底层特权级机制详述.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84f2dbb18a99f751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-14 Linux动态链接为什么要用PLT和GOT表.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hook.md",
+                "file": "_posts/2023-8-14 Linux动态链接为什么要用PLT和GOT表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hook.md",
+                "file": "_posts/2023-8-14 Linux动态链接为什么要用PLT和GOT表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hook.md"
+                "file": "_posts/2023-8-14 Linux动态链接为什么要用PLT和GOT表.md"
               }
             }
           }
@@ -156,12 +160,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "0dee03986e482c7d",
+  "active": "84f2dbb18a99f751",
   "lastOpenFiles": [
+    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
+    "_posts/2023-8-14 Linux动态链接为什么要用PLT和GOT表.md",
     "_posts/2023-8-11-xHook.md",
-    "hook.md",
-    "_posts/2023-8-11-CPU Cache .md",
     "_posts/2023-8-14 操作系统中的多级页表到底是为了解决什么问题？.md",
+    "_posts/2023-8-11-CPU Cache .md",
+    "hook.md",
     "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
     "assets/img/2023-8-14 操作系统中的多级页表到底是为了解决什么问题？/c30593c4e8c02a1ac199c078280ecf75_MD5.png",
     "assets/img/2023-8-14 操作系统中的多级页表到底是为了解决什么问题？/a234f18876c604733ccc0193697385c3_MD5.png",
@@ -179,7 +185,6 @@
     "assets/img/2023-8-11-操作系统底层特权级机制详述",
     "assets/img/2023-8-11-xHook",
     "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)",
-    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "_config.yml~",
     "_posts/xHook.md",
     "_posts/2023-8-11-Github Pages.md",
