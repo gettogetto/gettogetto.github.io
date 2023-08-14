@@ -147,7 +147,7 @@ printf函数的储存地址：
 
   
 
-![[assets/img/2023-8-14 Linux动态链接为什么要用PLT和GOT表/55f2f19ae2cc4e790258ec05c15ceaa4_MD5.jpg]]
+![[55f2f19ae2cc4e790258ec05c15ceaa4_MD5.jpg]]
 
   
 
