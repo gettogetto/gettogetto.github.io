@@ -11,8 +11,12 @@
             "id": "5f48ca7e0aa7f937",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-14.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-8-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-8-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-8-14.md"
+              }
             }
           }
         ]
@@ -139,8 +147,14 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "4b05c605b2da530a",
+  "active": "5f48ca7e0aa7f937",
   "lastOpenFiles": [
+    "assets/img/2023-8-14/a234f18876c604733ccc0193697385c3_MD5.png",
+    "assets/img/2023-8-14/0241fdc6f2af663a3c7a8ca5c26db5ec_MD5.png",
+    "assets/img/2023-8-14/a0f227651ed8943e37d7b63aa33a4c0e_MD5.png",
+    "assets/img/2023-8-14/c30593c4e8c02a1ac199c078280ecf75_MD5.png",
+    "assets/img/2023-8-14",
+    "_posts/2023-8-14.md",
     "assets/img/2023-8-11-xHook/8e4c16f41c7f5646e3541026b820b55a_MD5.png",
     "assets/img/2023-8-11-xHook/e0351066a121356d2af7835df8f02040_MD5.png",
     "assets/img/2023-8-11-xHook/4f8fe2f32b73a29c089287dceb31276d_MD5.jpg",
@@ -148,10 +162,6 @@
     "assets/img/2023-8-11-操作系统底层特权级机制详述/bfe9ba03fe51b23a091df435ad639187_MD5.png",
     "assets/img/2023-8-11-操作系统底层特权级机制详述/ef4e39ff196aa5b483a44711bff46b9c_MD5.png",
     "assets/img/2023-8-11-操作系统底层特权级机制详述/4dce2e69caf73e2e2b84a40667947b66_MD5.png",
-    "assets/img/2023-8-11-操作系统底层特权级机制详述/000de48b5dcd9ede9ca4c75b7d95cf47_MD5.png",
-    "assets/img/2023-8-11-操作系统底层特权级机制详述/227cbf2af57beead19f57f9d9531e717_MD5.png",
-    "assets/img/2023-8-11-操作系统底层特权级机制详述/c607d6cd9b739764c008a32a8b16b0e5_MD5.png",
-    "assets/img/2023-8-11-操作系统底层特权级机制详述/60d79230394f9e9ed461b8775a6e1343_MD5.png",
     "assets/img/2023-8-11-操作系统底层特权级机制详述",
     "assets/img/2023-8-11-xHook",
     "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)",
@@ -171,7 +181,6 @@
     "_resources/2023-8-11-xHook",
     "_resources",
     "_posts/2023-8-11-操作系统底层特权级机制详述 - 代码信条 - Code Belief.md",
-    "_resources/2023-8-11-CPU Cache _ A Blog",
     "_posts/2023-8-11-xHook_docs_overview_android_plt_hook_overview.md",
     "_posts/2023-8-11-CPU Cache _ A Blog.md",
     "_posts/simpread-CPU Cache _ A Blog.md",
