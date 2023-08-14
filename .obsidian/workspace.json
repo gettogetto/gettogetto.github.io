@@ -11,12 +11,8 @@
             "id": "5f48ca7e0aa7f937",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,25 +139,26 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "5f48ca7e0aa7f937",
+  "active": "4b05c605b2da530a",
   "lastOpenFiles": [
-    "_posts/2023-8-11-xHook.md",
-    "assets/img/crepe.jpg",
-    "_posts/2023-8-11-CPU Cache .md",
-    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
-    "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
-    "assets/img/2023-8-11-xHook/4f8fe2f32b73a29c089287dceb31276d_MD5.jpg",
-    "assets/img/2023-8-11-xHook/e0351066a121356d2af7835df8f02040_MD5.png",
     "assets/img/2023-8-11-xHook/8e4c16f41c7f5646e3541026b820b55a_MD5.png",
-    "assets/img/2023-8-11-xHook",
-    "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)/19c2ade7c0284ab5a6fb6487fccb5f8e_MD5.jpg",
-    "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)/5c6d5a51f647df4127d5ab1ac5e2d2ae_MD5.jpg",
-    "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)/ba9ed82a62fe4cacdca43a8f36290ba7_MD5.jpg",
-    "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)/ff588e3f7795e126d5bfd6f8cd6accf0_MD5.jpg",
-    "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)/dd56deda6e737e3f48492135a314e357_MD5.jpg",
-    "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)",
+    "assets/img/2023-8-11-xHook/e0351066a121356d2af7835df8f02040_MD5.png",
+    "assets/img/2023-8-11-xHook/4f8fe2f32b73a29c089287dceb31276d_MD5.jpg",
+    "assets/img/2023-8-11-操作系统底层特权级机制详述/b0ee660e9cfaf8e1ae560c346e2864a7_MD5.png",
+    "assets/img/2023-8-11-操作系统底层特权级机制详述/bfe9ba03fe51b23a091df435ad639187_MD5.png",
+    "assets/img/2023-8-11-操作系统底层特权级机制详述/ef4e39ff196aa5b483a44711bff46b9c_MD5.png",
+    "assets/img/2023-8-11-操作系统底层特权级机制详述/4dce2e69caf73e2e2b84a40667947b66_MD5.png",
+    "assets/img/2023-8-11-操作系统底层特权级机制详述/000de48b5dcd9ede9ca4c75b7d95cf47_MD5.png",
     "assets/img/2023-8-11-操作系统底层特权级机制详述/227cbf2af57beead19f57f9d9531e717_MD5.png",
+    "assets/img/2023-8-11-操作系统底层特权级机制详述/c607d6cd9b739764c008a32a8b16b0e5_MD5.png",
+    "assets/img/2023-8-11-操作系统底层特权级机制详述/60d79230394f9e9ed461b8775a6e1343_MD5.png",
     "assets/img/2023-8-11-操作系统底层特权级机制详述",
+    "assets/img/2023-8-11-xHook",
+    "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)",
+    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
+    "_posts/2023-8-11-xHook.md",
+    "_posts/2023-8-11-CPU Cache .md",
+    "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
     "_config.yml~",
     "_posts/xHook.md",
     "_posts/2023-8-11-Github Pages.md",
