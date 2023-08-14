@@ -16,6 +16,7 @@
   "mediaRootDir": "/assets/img/${notename}",
   "disAddCom": false,
   "useMD5ForNewAtt": true,
+  "useMarkdownLinks": true,
   "removeMediaFolder": false,
   "removeOrphansCompl": true
 }
