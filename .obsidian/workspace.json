@@ -23,12 +23,8 @@
             "id": "9392a8b8963a93cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-8-15-bhook.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-15-bhook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-15-bhook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-8-15-bhook.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,11 +154,11 @@
   },
   "active": "9392a8b8963a93cb",
   "lastOpenFiles": [
-    "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
+    "_posts/2023-8-11-xHook.md",
     "_posts/2023-8-15-bhook.md",
+    "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
     "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
-    "_posts/2023-8-11-xHook.md",
     "_posts/2023-8-14-操作系统中的多级页表到底是为了解决什么问题？.md",
     "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
     "assets/img/2023-8-15-bhook/a56a8d98073065497dcd6199d22e1316_MD5.png",
