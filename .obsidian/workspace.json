@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9392a8b8963a93cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-15-C++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-15-bhook.md",
+                "file": "_posts/2023-8-15-C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-15-bhook.md",
+                "file": "_posts/2023-8-15-C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-8-15-bhook.md"
+                "file": "_posts/2023-8-15-C++.md"
               }
             }
           }
@@ -147,14 +160,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "22bfd4f4dc2f1947",
+  "active": "4b05c605b2da530a",
   "lastOpenFiles": [
+    "_posts/2023-8-15-bhook.md",
+    "_posts/2023-8-15-C++.md",
     "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
     "_posts/2023-8-11-xHook.md",
     "_posts/2023-8-14-操作系统中的多级页表到底是为了解决什么问题？.md",
     "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
-    "_posts/2023-8-15-bhook.md",
     "assets/img/2023-8-15-bhook/a56a8d98073065497dcd6199d22e1316_MD5.png",
     "assets/img/2023-8-15-bhook/840d9b208ee92c8adb4e416e07ed3d83_MD5.png",
     "assets/img/2023-8-15-bhook/7b93506c02680ea56740982b8c1b4ec4_MD5.png",
