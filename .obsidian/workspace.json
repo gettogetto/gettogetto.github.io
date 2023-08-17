@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-8-15-bhook.md",
+                "file": "_posts/2023-8-17-如何比较两个浮点数.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-15-bhook.md",
+                "file": "_posts/2023-8-17-如何比较两个浮点数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-15-bhook.md",
+                "file": "_posts/2023-8-17-如何比较两个浮点数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-8-15-bhook.md"
+                "file": "_posts/2023-8-17-如何比较两个浮点数.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "22bfd4f4dc2f1947",
   "lastOpenFiles": [
-    "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
+    "assets/img/2023-8-17-如何比较两个浮点数/70c653d7d2881eb4d24b018fc195995f_MD5.png",
+    "assets/img/2023-8-17-如何比较两个浮点数/47727ccf4f86919bf568839f993a5b01_MD5.jpg",
     "_posts/2023-8-15-bhook.md",
+    "assets/img/2023-8-17-如何比较两个浮点数",
+    "_posts/2023-8-17-如何比较两个浮点数.md",
+    "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
     "_posts/2023-8-11-CPU Cache .md",
     "aboutme.md",
     "_posts/2023-8-11-xHook.md",
@@ -181,7 +185,6 @@
     "screenshot.png",
     "hook.md",
     "assets/img/2023-8-14-Linux动态链接为什么要用PLT和GOT表/55f2f19ae2cc4e790258ec05c15ceaa4_MD5.jpg",
-    "assets/img/thumb.png",
     "assets/img/3b79aa776b7596098f11b5c1ecc8359b_MD5.svg.md",
     "动态链接.md",
     "assets/img/2023-8-14-Linux动态链接为什么要用PLT和GOT表",
@@ -197,7 +200,6 @@
     "index.html~",
     "CHANGELOG.md",
     "README.md",
-    "_resources/2023-8-11-操作系统底层特权级机制详述",
     "_posts/2023-8-11-操作系统底层特权级机制详述 - 代码信条 - Code Belief.md",
     "_posts/2023-8-11-xHook_docs_overview_android_plt_hook_overview.md",
     "_posts/2023-8-11-CPU Cache _ A Blog.md",
