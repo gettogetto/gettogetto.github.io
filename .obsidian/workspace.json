@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/2023-8-17-C++模板参数如何递归地获取最内层的类型参数.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#问题",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "9392a8b8963a93cb",
+  "active": "4b05c605b2da530a",
   "lastOpenFiles": [
     "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
     "_posts/2023-8-17-C++模板参数如何递归地获取最内层的类型参数.md",
