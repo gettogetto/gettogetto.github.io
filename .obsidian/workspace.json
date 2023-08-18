@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4894c85d4c162d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-18 C++ 为何引入常量迭代器 cbegin 和 cend？.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
+                "file": "_posts/2023-8-18 C++ 为何引入常量迭代器 cbegin 和 cend？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
+                "file": "_posts/2023-8-18 C++ 为何引入常量迭代器 cbegin 和 cend？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md"
+                "file": "_posts/2023-8-18 C++ 为何引入常量迭代器 cbegin 和 cend？.md"
               }
             }
           }
@@ -147,17 +160,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "9392a8b8963a93cb",
+  "active": "4894c85d4c162d0e",
   "lastOpenFiles": [
+    "_posts/2023-8-17-如何比较两个浮点数.md",
+    "_posts/2023-8-18 C++ 为何引入常量迭代器 cbegin 和 cend？.md",
+    "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
     "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
     "_posts/2023-8-14-操作系统中的多级页表到底是为了解决什么问题？.md",
     "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
     "README.md",
     "CHANGELOG.md",
-    "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
     "_posts/2023-8-17-C++模板参数如何递归地获取最内层的类型参数.md",
-    "_posts/2023-8-17-如何比较两个浮点数.md",
     "_posts/2023-8-15-bhook.md",
     "assets/img/2023-8-17-如何比较两个浮点数/70c653d7d2881eb4d24b018fc195995f_MD5.png",
     "assets/img/2023-8-17-如何比较两个浮点数/47727ccf4f86919bf568839f993a5b01_MD5.jpg",
@@ -193,7 +207,6 @@
     "_posts/2023-8-11-xHook_docs_overview_android_plt_hook_overview.md",
     "_posts/2023-8-11-CPU Cache _ A Blog.md",
     "_posts/simpread-CPU Cache _ A Blog.md",
-    "_posts/simpread-操作系统底层特权级机制详述 - 代码信条 - Code Belief.md",
-    "_posts/simpread-C_C++ 动态链接及地址无关代码 (PIC).md"
+    "_posts/simpread-操作系统底层特权级机制详述 - 代码信条 - Code Belief.md"
   ]
 }
