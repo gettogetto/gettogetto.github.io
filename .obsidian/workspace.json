@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
+                "file": "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
+                "file": "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
+                "file": "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md"
+                "file": "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md"
               }
             }
           }
@@ -210,6 +210,11 @@
   },
   "active": "ba9a159bf260daf4",
   "lastOpenFiles": [
+    "_posts/2023-8-18-C++中string的SSO优化.md",
+    "_posts/2023-8-18-C++ 初始化列表实现print.md",
+    "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
+    "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
+    "_posts/2023-8-18-C++ 为何引入常量迭代器 cbegin 和 cend？.md",
     "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/9099945f790302cb82d164ab79fad2a8_MD5.png",
     "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/c846d2cd899be718d013d679f8a2d329_MD5.png",
     "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/b71464e1619ef26de956776de06d648f_MD5.png",
@@ -218,17 +223,11 @@
     "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/961eb03f967b2acd90384ac80f87079b_MD5.png",
     "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/c592467659d97c7a3c770f172b8a6af3_MD5.png",
     "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move",
-    "_posts/2023-8-18-C++ 为何引入常量迭代器 cbegin 和 cend？.md",
-    "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
     "assets/img/未命名/c846d2cd899be718d013d679f8a2d329_MD5.png",
     "assets/img/未命名/45da3582ba863ea0acd860862ffc0658_MD5.png",
     "assets/img/未命名/b71464e1619ef26de956776de06d648f_MD5.png",
-    "assets/img/未命名/5eb12410b170e397e191243943101b27_MD5.png",
-    "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
     "assets/img/未命名",
-    "_posts/2023-8-18-C++中string的SSO优化.md",
     "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
-    "_posts/2023-8-18-C++ 初始化列表实现print.md",
     "_posts/2023-8-17-如何比较两个浮点数.md",
     "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
