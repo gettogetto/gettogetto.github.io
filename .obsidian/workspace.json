@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/未命名.md",
+                "file": "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba9a159bf260daf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/未命名.md",
+                "file": "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/未命名.md",
+                "file": "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/未命名.md"
+                "file": "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md"
               }
             }
           }
@@ -196,16 +208,26 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "52aa7d14da6cc835",
+  "active": "ba9a159bf260daf4",
   "lastOpenFiles": [
-    "assets/img/未命名/1dea3f73feb2cadd678682002f04a104_MD5.png",
-    "assets/img/未命名/247a89425ad74e2dfbaa4def8bfb83ef_MD5.png",
-    "assets/img/未命名/9099945f790302cb82d164ab79fad2a8_MD5.png",
+    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/9099945f790302cb82d164ab79fad2a8_MD5.png",
+    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/c846d2cd899be718d013d679f8a2d329_MD5.png",
+    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/b71464e1619ef26de956776de06d648f_MD5.png",
+    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/5eb12410b170e397e191243943101b27_MD5.png",
+    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/45da3582ba863ea0acd860862ffc0658_MD5.png",
+    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/961eb03f967b2acd90384ac80f87079b_MD5.png",
+    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/c592467659d97c7a3c770f172b8a6af3_MD5.png",
+    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move",
+    "_posts/2023-8-18-C++ 为何引入常量迭代器 cbegin 和 cend？.md",
+    "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
+    "assets/img/未命名/c846d2cd899be718d013d679f8a2d329_MD5.png",
+    "assets/img/未命名/45da3582ba863ea0acd860862ffc0658_MD5.png",
+    "assets/img/未命名/b71464e1619ef26de956776de06d648f_MD5.png",
+    "assets/img/未命名/5eb12410b170e397e191243943101b27_MD5.png",
+    "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
     "assets/img/未命名",
     "_posts/2023-8-18-C++中string的SSO优化.md",
-    "_posts/未命名.md",
     "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
-    "_posts/2023-8-18-C++ 为何引入常量迭代器 cbegin 和 cend？.md",
     "_posts/2023-8-18-C++ 初始化列表实现print.md",
     "_posts/2023-8-17-如何比较两个浮点数.md",
     "_posts/2023-8-11-操作系统底层特权级机制详述.md",
@@ -216,19 +238,11 @@
     "CHANGELOG.md",
     "_posts/2023-8-17-C++模板参数如何递归地获取最内层的类型参数.md",
     "_posts/2023-8-15-bhook.md",
-    "assets/img/2023-8-17-如何比较两个浮点数/70c653d7d2881eb4d24b018fc195995f_MD5.png",
-    "assets/img/2023-8-17-如何比较两个浮点数/47727ccf4f86919bf568839f993a5b01_MD5.jpg",
     "assets/img/2023-8-17-如何比较两个浮点数",
     "_posts/2023-8-11-CPU Cache .md",
     "aboutme.md",
     "_posts/2023-8-11-xHook.md",
     "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
-    "assets/img/2023-8-15-bhook/a56a8d98073065497dcd6199d22e1316_MD5.png",
-    "assets/img/2023-8-15-bhook/840d9b208ee92c8adb4e416e07ed3d83_MD5.png",
-    "assets/img/2023-8-15-bhook/7b93506c02680ea56740982b8c1b4ec4_MD5.png",
-    "assets/img/2023-8-15-bhook/621c4e84f414635fbf4d30152a7360b5_MD5.png",
-    "assets/img/2023-8-15-bhook/eb15e66728fc0026d722891a9b3d7572_MD5.png",
-    "assets/img/2023-8-15-bhook/788fac513a18f504a26cc6d4a369a6ad_MD5.png",
     "assets/img/2023-8-15-bhook",
     "hook.md",
     "assets/img/3b79aa776b7596098f11b5c1ecc8359b_MD5.svg.md",
@@ -240,9 +254,7 @@
     "assets/img/2023-8-11-操作系统底层特权级机制详述",
     "assets/img/2023-8-11-xHook",
     "assets/img/2023-8-11-动态链接及地址无关代码 (PIC)",
-    "_config.yml~",
     "_posts/xHook.md",
-    "_posts/2023-8-11-Github Pages.md",
-    "_posts/2023-8-11-操作系统底层特权级机制详述 - 代码信条 - Code Belief.md"
+    "_posts/2023-8-11-Github Pages.md"
   ]
 }
