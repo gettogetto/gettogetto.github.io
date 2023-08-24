@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d430f3ac539cfe04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
+                "file": "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
+                "file": "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md"
+                "file": "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md"
               }
             }
           }
@@ -208,24 +220,26 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "ba9a159bf260daf4",
+  "active": "d430f3ac539cfe04",
   "lastOpenFiles": [
+    "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
+    "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/91b6b2eba22ca65f391511b0095f98e2_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/299790b56b9e8d9ed120dc8c936f30f1_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/5563e71cbf1989049b5e49e6e951f0e7_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/d84a411441b961f2c7d2135627b650b8_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/00db67b08c554b480161c97b52930b30_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/644135f25648f1563345c467635e209f_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/5ebe8a59b9a2c112b44433a98c079276_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/6a27d7cc928c5ab99c773b4f4ad5ac61_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/afe821aa1cfa4260fd492fb0ed7dbe77_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解/99762c11def3f9da83bc6b0dbbc16529_MD5.jpg",
+    "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解",
     "_posts/2023-8-18-C++ 为何引入常量迭代器 cbegin 和 cend？.md",
     "_posts/2023-8-18-C++中string的SSO优化.md",
-    "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
-    "assets/img/2023-8-18-Copy move elision C++ 17 vs C++ 11/b2086f5cbccdf66be43ee4fd08ce9a0e_MD5.jpg",
-    "assets/img/2023-8-18-Copy move elision C++ 17 vs C++ 11/6fde9bb3d5f7d966a410b70db4a4d9f5_MD5.jpg",
-    "assets/img/2023-8-18-Copy move elision C++ 17 vs C++ 11/81a954685c6c9c664cd423e4b7b3a0ce_MD5.jpg",
     "assets/img/2023-8-18-Copy move elision C++ 17 vs C++ 11",
     "_posts/2023-8-18-C++ 初始化列表实现print.md",
     "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
-    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/9099945f790302cb82d164ab79fad2a8_MD5.png",
-    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/c846d2cd899be718d013d679f8a2d329_MD5.png",
-    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/b71464e1619ef26de956776de06d648f_MD5.png",
-    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/5eb12410b170e397e191243943101b27_MD5.png",
-    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/45da3582ba863ea0acd860862ffc0658_MD5.png",
-    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/961eb03f967b2acd90384ac80f87079b_MD5.png",
-    "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move/c592467659d97c7a3c770f172b8a6af3_MD5.png",
     "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move",
     "assets/img/未命名",
     "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
@@ -252,8 +266,6 @@
     "_posts/2023-8-14 多级页表为什么省内存.md",
     "assets/img/2023-8-14",
     "assets/img/2023-8-11-操作系统底层特权级机制详述",
-    "assets/img/2023-8-11-xHook",
-    "_posts/xHook.md",
-    "_posts/2023-8-11-Github Pages.md"
+    "_posts/xHook.md"
   ]
 }
