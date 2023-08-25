@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
-                "mode": "source",
+                "file": "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
+                "file": "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
+                "file": "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md"
+                "file": "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "d652cd7e56ce259b",
   "lastOpenFiles": [
+    "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
     "_posts/身高科普.md",
     "assets/img/身高科普/67852bdfc4040fc769759a1c1eedd8ce_MD5.png",
-    "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
     "Pasted image 20230824152058.png",
     "assets/img/身高科普/155fed6bde34719276eb64e2db73cb76_MD5.png",
     "assets/img/身高科普/e359acf2b4f748c5e3a2098fcdacecbd_MD5.png",
