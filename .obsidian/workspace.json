@@ -47,8 +47,12 @@
             "id": "207c22e207b52ba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md"
+              }
             }
           }
         ]
@@ -178,25 +186,31 @@
   },
   "active": "207c22e207b52ba9",
   "lastOpenFiles": [
-    "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
     "_posts/2023-8-30-公共GOT表项.md",
-    "_posts/2023-8-30-延迟重定位_PLT重定位.md",
+    "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
     "_posts/2023-8-30-PLT和GOT调用图.md",
+    "_posts/2023-8-30-延迟重定位_PLT重定位.md",
+    "_posts/2023-8-18-C++ 初始化列表实现print.md",
+    "aboutme.md",
+    "hook.md",
+    "_posts/2023-8-15-bhook.md",
+    "assets/img/2023-8-15-bhook/eb15e66728fc0026d722891a9b3d7572_MD5.png",
+    "assets/img/2023-8-15-bhook/621c4e84f414635fbf4d30152a7360b5_MD5.png",
+    "assets/img/2023-8-15-bhook/7b93506c02680ea56740982b8c1b4ec4_MD5.png",
+    "assets/img/2023-8-15-bhook/a56a8d98073065497dcd6199d22e1316_MD5.png",
+    "assets/img/2023-8-15-bhook/788fac513a18f504a26cc6d4a369a6ad_MD5.png",
+    "assets/img/2023-8-15-bhook/8f1b9524c3b77f16de72f860cb4b07de_MD5.png",
+    "assets/img/2023-8-15-bhook/840d9b208ee92c8adb4e416e07ed3d83_MD5.png",
+    "assets/img/2023-8-15-bhook",
+    "_posts/2023-8-11-xHook.md",
     "assets/img/2023-8-30-PLT和GOT调用图/03a314c8053c52d099798e3f64435042_MD5.jpg",
     "assets/img/2023-8-30-PLT和GOT调用图/b172b5fa8542a08cf19a6fe8de4f8fdf_MD5.jpg",
     "assets/img/2023-8-30-PLT和GOT调用图/1af49ef26bd4b64a46c3eabfcaf4a960_MD5.jpg",
-    "assets/img/2023-8-30-PLT和GOT调用图/10603a1b869cc0a283e601969eb22984_MD5.jpg",
     "assets/img/2023-8-30-PLT和GOT调用图",
     "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
-    "assets/img/2023-8-30-延迟重定位_PLT重定位/3fb2d52de7793d421a214396c9afa6c1_MD5.png",
-    "assets/img/2023-8-30-延迟重定位_PLT重定位/8002caad116d8f06f2a172572fbc9563_MD5.jpg",
     "assets/img/2023-8-30-延迟重定位_PLT重定位",
     "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
     "_posts/身高科普.md",
-    "assets/img/身高科普/67852bdfc4040fc769759a1c1eedd8ce_MD5.png",
-    "Pasted image 20230824152058.png",
-    "assets/img/身高科普/155fed6bde34719276eb64e2db73cb76_MD5.png",
-    "assets/img/身高科普/e359acf2b4f748c5e3a2098fcdacecbd_MD5.png",
     "assets/img/身高科普",
     "assets/img/未命名",
     "_posts/2023-8-11-操作系统底层特权级机制详述.md",
@@ -206,7 +220,6 @@
     "_posts/2023-8-18-C++ 为何引入常量迭代器 cbegin 和 cend？.md",
     "_posts/2023-8-18-C++中string的SSO优化.md",
     "assets/img/2023-8-18-Copy move elision C++ 17 vs C++ 11",
-    "_posts/2023-8-18-C++ 初始化列表实现print.md",
     "_posts/2023-8-18-理解C++ 右值左值等名词的关键——move.md",
     "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move",
     "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
@@ -216,12 +229,8 @@
     "README.md",
     "CHANGELOG.md",
     "_posts/2023-8-17-C++模板参数如何递归地获取最内层的类型参数.md",
-    "_posts/2023-8-15-bhook.md",
     "assets/img/2023-8-17-如何比较两个浮点数",
     "_posts/2023-8-11-CPU Cache .md",
-    "aboutme.md",
-    "_posts/2023-8-11-xHook.md",
-    "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
-    "assets/img/2023-8-15-bhook"
+    "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md"
   ]
 }
