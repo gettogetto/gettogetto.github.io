@@ -18,8 +18,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86f808526e0061d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d5eb8015aaa3504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "207c22e207b52ba9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,21 +176,27 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "d652cd7e56ce259b",
+  "active": "207c22e207b52ba9",
   "lastOpenFiles": [
-    "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
+    "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
+    "_posts/2023-8-30-公共GOT表项.md",
+    "_posts/2023-8-30-延迟重定位_PLT重定位.md",
+    "_posts/2023-8-30-PLT和GOT调用图.md",
+    "assets/img/2023-8-30-PLT和GOT调用图/03a314c8053c52d099798e3f64435042_MD5.jpg",
+    "assets/img/2023-8-30-PLT和GOT调用图/b172b5fa8542a08cf19a6fe8de4f8fdf_MD5.jpg",
+    "assets/img/2023-8-30-PLT和GOT调用图/1af49ef26bd4b64a46c3eabfcaf4a960_MD5.jpg",
+    "assets/img/2023-8-30-PLT和GOT调用图/10603a1b869cc0a283e601969eb22984_MD5.jpg",
+    "assets/img/2023-8-30-PLT和GOT调用图",
     "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
+    "assets/img/2023-8-30-延迟重定位_PLT重定位/3fb2d52de7793d421a214396c9afa6c1_MD5.png",
+    "assets/img/2023-8-30-延迟重定位_PLT重定位/8002caad116d8f06f2a172572fbc9563_MD5.jpg",
+    "assets/img/2023-8-30-延迟重定位_PLT重定位",
+    "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
     "_posts/身高科普.md",
     "assets/img/身高科普/67852bdfc4040fc769759a1c1eedd8ce_MD5.png",
     "Pasted image 20230824152058.png",
     "assets/img/身高科普/155fed6bde34719276eb64e2db73cb76_MD5.png",
     "assets/img/身高科普/e359acf2b4f748c5e3a2098fcdacecbd_MD5.png",
-    "assets/img/身高科普/10da20a99ea7ed30d7cac0b37bf74e8f_MD5.png",
-    "assets/img/身高科普/3b5343ef0d78e32c8b08af9c131f1fe5_MD5.png",
-    "assets/img/身高科普/d45c142691b36c2e7aa3334c02829f74_MD5.png",
-    "assets/img/身高科普/93f0b80ea6e4e135a76c3a6fc8081bf1_MD5.png",
-    "assets/img/身高科普/2ab8b120d3dc95501d2ac2b638a823b0_MD5.png",
-    "assets/img/身高科普/c26393624d08cfb9ab650e63c9d9643b_MD5.png",
     "assets/img/身高科普",
     "assets/img/未命名",
     "_posts/2023-8-11-操作系统底层特权级机制详述.md",
@@ -176,7 +211,6 @@
     "assets/img/2023-8-18-理解C++ 右值左值等名词的关键——move",
     "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
     "_posts/2023-8-17-如何比较两个浮点数.md",
-    "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
     "_posts/2023-8-14-操作系统中的多级页表到底是为了解决什么问题？.md",
     "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
     "README.md",
@@ -188,11 +222,6 @@
     "aboutme.md",
     "_posts/2023-8-11-xHook.md",
     "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
-    "assets/img/2023-8-15-bhook",
-    "hook.md",
-    "assets/img/3b79aa776b7596098f11b5c1ecc8359b_MD5.svg.md",
-    "动态链接.md",
-    "assets/img/2023-8-14-Linux动态链接为什么要用PLT和GOT表",
-    "assets/img/2023-8-14-操作系统中的多级页表到底是为了解决什么问题？"
+    "assets/img/2023-8-15-bhook"
   ]
 }
