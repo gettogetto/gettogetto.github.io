@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md"
+              }
             }
           }
         ]
@@ -172,8 +176,7 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "207c22e207b52ba9",
