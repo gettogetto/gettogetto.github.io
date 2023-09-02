@@ -47,8 +47,12 @@
             "id": "207c22e207b52ba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -118,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
+                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
+                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md"
+                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md"
               }
             }
           }
@@ -176,11 +180,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
   "active": "207c22e207b52ba9",
   "lastOpenFiles": [
+    "_posts/2023-8-30-PLT和GOT调用图.md",
+    "_config.yml~",
+    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "_posts/2023-8-15-bhook.md",
     "_posts/2023-8-17-如何比较两个浮点数.md",
     "_posts/2023-8-18-C++ 初始化列表实现print.md",
@@ -189,7 +197,6 @@
     "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
     "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
     "_posts/2023-8-30-公共GOT表项.md",
-    "_posts/2023-8-30-PLT和GOT调用图.md",
     "_posts/2023-8-30-延迟重定位_PLT重定位.md",
     "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
     "aboutme.md",
@@ -212,7 +219,6 @@
     "_posts/身高科普.md",
     "assets/img/身高科普",
     "assets/img/未命名",
-    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "assets/img/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解",
     "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解",
     "_posts/2023-8-18-C++中string的SSO优化.md",
@@ -224,8 +230,6 @@
     "README.md",
     "CHANGELOG.md",
     "_posts/2023-8-17-C++模板参数如何递归地获取最内层的类型参数.md",
-    "assets/img/2023-8-17-如何比较两个浮点数",
-    "_posts/2023-8-11-CPU Cache .md",
-    "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md"
+    "_posts/2023-8-11-CPU Cache .md"
   ]
 }
