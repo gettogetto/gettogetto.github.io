@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d652cd7e56ce259b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86f808526e0061d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d5eb8015aaa3504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "207c22e207b52ba9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-9-5-对智能指针作为函数参数的理解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2d6e9b6ca5bcdea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-9-5-对智能指针作为函数参数的理解.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75d6cb3e217cff50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-9-5-移动与右值.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f79c6f76b775b9e1",
             "type": "leaf",
             "state": {
@@ -104,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
