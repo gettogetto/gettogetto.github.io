@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-9-5-深入浅出C++类型擦除(2).md",
+                "file": "_posts/2023-9-5-深入浅出C++类型擦除(3).md",
                 "mode": "preview",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-9-5-深入浅出C++类型擦除(2).md",
+                "file": "_posts/2023-9-5-深入浅出C++类型擦除(3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-9-5-深入浅出C++类型擦除(2).md",
+                "file": "_posts/2023-9-5-深入浅出C++类型擦除(3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-9-5-深入浅出C++类型擦除(2).md"
+                "file": "_posts/2023-9-5-深入浅出C++类型擦除(3).md"
               }
             }
           }
@@ -234,11 +234,11 @@
   },
   "active": "e8ab0ccd87d03cc4",
   "lastOpenFiles": [
-    "_posts/2023-9-5-深入浅出C++类型擦除(1).md",
     "_posts/2023-9-5-深入浅出C++类型擦除(2).md",
+    "_posts/2023-9-5-深入浅出C++类型擦除(3).md",
+    "_posts/2023-9-5-深入浅出C++类型擦除(1).md",
     "C++.md",
     "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
-    "_posts/2023-9-5-深入浅出C++类型擦除(3).md",
     "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
     "assets/img/2023-9-5-深入浅出C++类型擦除(3)/746306d1e0fdc1e4d15fceb7f4b5d155_MD5.jpg",
     "assets/img/2023-9-5-深入浅出C++类型擦除(3)",
