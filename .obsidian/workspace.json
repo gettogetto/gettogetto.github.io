@@ -47,16 +47,24 @@
             "id": "207c22e207b52ba9",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "393fcf1b03bf7750",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md",
-                "mode": "preview",
+                "file": "_posts/2023-9-5-对智能指针作为函数参数的理解.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md",
+                "file": "_posts/2023-9-5-对智能指针作为函数参数的理解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md",
+                "file": "_posts/2023-9-5-对智能指针作为函数参数的理解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-8-30-延迟重定位_PLT重定位.md"
+                "file": "_posts/2023-9-5-对智能指针作为函数参数的理解.md"
               }
             }
           }
@@ -184,11 +192,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "207c22e207b52ba9",
+  "active": "393fcf1b03bf7750",
   "lastOpenFiles": [
-    "_posts/2023-8-30-PLT和GOT调用图.md",
-    "_config.yml~",
-    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
+    "assets/img/2023-9-5-对智能指针作为函数参数的理解/099c5443ce35ae788514409bafb79a44_MD5.jpg",
+    "assets/img/2023-9-5-对智能指针作为函数参数的理解/9f4450e038cac45e604b2be9cc01e662_MD5.png",
+    "assets/img/2023-9-5-对智能指针作为函数参数的理解/26725aa9602db156eaafd2cb68a4a816_MD5.jpg",
+    "assets/img/2023-9-5-对智能指针作为函数参数的理解/eafe0930483b833e59b5ef4803acad8b_MD5.jpg",
+    "assets/img/2023-9-5-对智能指针作为函数参数的理解/f6ab48cd7e3f4247241997c138769536_MD5.jpg",
+    "assets/img/404-southpark.jpg",
+    "_posts/2023-9-5-对智能指针作为函数参数的理解.md",
+    "_posts/2023-8-30-延迟重定位_PLT重定位.md",
+    "assets/img/2023-9-5-对智能指针作为函数参数的理解",
     "_posts/2023-8-15-bhook.md",
     "_posts/2023-8-17-如何比较两个浮点数.md",
     "_posts/2023-8-18-C++ 初始化列表实现print.md",
@@ -197,7 +211,7 @@
     "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
     "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
     "_posts/2023-8-30-公共GOT表项.md",
-    "_posts/2023-8-30-延迟重定位_PLT重定位.md",
+    "_posts/2023-8-30-PLT和GOT调用图.md",
     "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
     "aboutme.md",
     "hook.md",
@@ -206,19 +220,15 @@
     "assets/img/2023-8-15-bhook/7b93506c02680ea56740982b8c1b4ec4_MD5.png",
     "assets/img/2023-8-15-bhook/a56a8d98073065497dcd6199d22e1316_MD5.png",
     "assets/img/2023-8-15-bhook/788fac513a18f504a26cc6d4a369a6ad_MD5.png",
-    "assets/img/2023-8-15-bhook/8f1b9524c3b77f16de72f860cb4b07de_MD5.png",
-    "assets/img/2023-8-15-bhook/840d9b208ee92c8adb4e416e07ed3d83_MD5.png",
     "assets/img/2023-8-15-bhook",
     "_posts/2023-8-11-xHook.md",
-    "assets/img/2023-8-30-PLT和GOT调用图/03a314c8053c52d099798e3f64435042_MD5.jpg",
-    "assets/img/2023-8-30-PLT和GOT调用图/b172b5fa8542a08cf19a6fe8de4f8fdf_MD5.jpg",
-    "assets/img/2023-8-30-PLT和GOT调用图/1af49ef26bd4b64a46c3eabfcaf4a960_MD5.jpg",
     "assets/img/2023-8-30-PLT和GOT调用图",
     "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
     "assets/img/2023-8-30-延迟重定位_PLT重定位",
     "_posts/身高科普.md",
     "assets/img/身高科普",
     "assets/img/未命名",
+    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "assets/img/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解",
     "assets/img/2023-8-24-静态链接与动态链接的宏观概述及微观详解",
     "_posts/2023-8-18-C++中string的SSO优化.md",
@@ -229,7 +239,6 @@
     "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
     "README.md",
     "CHANGELOG.md",
-    "_posts/2023-8-17-C++模板参数如何递归地获取最内层的类型参数.md",
-    "_posts/2023-8-11-CPU Cache .md"
+    "_posts/2023-8-17-C++模板参数如何递归地获取最内层的类型参数.md"
   ]
 }
