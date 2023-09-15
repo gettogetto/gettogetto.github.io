@@ -35,12 +35,8 @@
             "id": "3d5eb8015aaa3504",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,8 +176,8 @@
   },
   "active": "3d5eb8015aaa3504",
   "lastOpenFiles": [
-    "_posts/2023-8-15-bhook.md",
     "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md",
+    "_posts/2023-8-15-bhook.md",
     "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
     "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
     "_posts/2023-9-5-对智能指针作为函数参数的理解.md",
