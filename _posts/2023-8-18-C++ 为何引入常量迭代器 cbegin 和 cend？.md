@@ -40,3 +40,5 @@ for( auto it = v.begin(); it != v.end(); ++it ) {
 这个时候我们就需要一个返回const_iterator类型的函数，所以[cbegin](https://www.zhihu.com/search?q=cbegin&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2289608033%7D)和cend就孕育而生。
 
 故事大概就是这样的。
+
+[[C++]]
