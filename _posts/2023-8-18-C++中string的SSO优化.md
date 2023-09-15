@@ -122,7 +122,7 @@ value   OP MN KL IJ GH EF CD AB
 
 几个月之前，我对照韦易笑大佬的AVL树实现[https://github.com/skywind3000/avlmini](https://link.zhihu.com/?target=https%3A//github.com/skywind3000/avlmini)，写了一个C++版本的玩具`set`。使用C++实现是因为C++的泛型保留了更多编译时信息，编译器能够进行更好的优化（典型的例子是比较函数。使用template传递`std::less`要比传递函数指针快），在我本机使用随机数据（几百万个`int`）测试的结果也是C++版本比C版本要略快。
 
-avlmini的算法实现我认为是非常好的，但即使如此，在动态申请内存的情况下，这个`set`仍然比`std::set`要慢。插入、查询和删除操作大概慢7%到15%不等（编译器是LLVM clang 13，编译选项`-O2 -std=c++11`）。虽然这种简单的测试不具备普遍性，但是也能一定程度说明现在的C++ STL实现是很好的。STL的实现中有很多针对平凡类型、可移动构造类型等的优化，用来提升速度和节省内存（比如`propagate_on_container_copy_assignment、compressed_pair`这些东西），很多时候远比自己写要快。
+avlmini的算法实现我认为是非常好的，但即使如此，在动态申请内存的情况下，这个`set`仍然比`std::set`要慢。插入、查询和删除操作大概慢7%到15%不等（编译器是LLVM clang 13，编译选项`-O2 -std=c++11`）。虽然这种简单的测试不具备普遍性，但是也能一定程度说明现在的[[C++]] STL实现是很好的。STL的实现中有很多针对平凡类型、可移动构造类型等的优化，用来提升速度和节省内存（比如`propagate_on_container_copy_assignment、compressed_pair`这些东西），很多时候远比自己写要快。
 
 综上所述，不要闲得没事造轮子（狗头）
 

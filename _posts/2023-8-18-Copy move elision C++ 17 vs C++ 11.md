@@ -1,6 +1,6 @@
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/p/379566824)
 
-> Copy elision 在 C++11 以前是省略 copy constructor，但是 C++11 之后，更多地是指省略 move constructor（只有 copy constructor 而没有 move constructor 的时候就是省略 copy constructor)。C++ 17 与 11 省略的方式还不一样，因为 value categories 有了调整。更多内容请看本文分析。  
+> Copy elision 在 [[C++]]11 以前是省略 copy constructor，但是 C++11 之后，更多地是指省略 move constructor（只有 copy constructor 而没有 move constructor 的时候就是省略 copy constructor)。C++ 17 与 11 省略的方式还不一样，因为 value categories 有了调整。更多内容请看本文分析。  
 > 如果希望复习一下 copy constructor 和 move constructor，可以阅读 [C++：Rule of five/zero 以及 Rust：Rule of two](https://zhuanlan.zhihu.com/p/369349887) 和[什么是 move？理解 C++ Value categories 和 Rust 的 move](https://zhuanlan.zhihu.com/p/374392832)
 
 文章经过修改整理后，发于公众号 [Copy/move elision: C++ 17 vs C++ 11](https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI4ODE4NTkxMw%3D%3D%26mid%3D2649441370%26idx%3D1%26sn%3Db8f4d13501cb1a4bf376c72779f716fb%26chksm%3Df3ddaf0cc4aa261a76a50b15745573e148962b17444d99ff1a7162534aefcf0ce67c547ac4fd%26token%3D2061556422%26lang%3Dzh_CN%23rd)
