@@ -8,51 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d652cd7e56ce259b",
+            "id": "9bd9457df7b9763f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86f808526e0061d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md",
+                "file": "_posts/2023-10-24-如何实现一个类，在父类没有虚析构函数的情况下，通过父类指针析构子类对象？.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "74302da7abd3d53c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
-          },
-          {
-            "id": "f412506b25261b11",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md",
+                "file": "_posts/2023-10-24-如何实现一个类，在父类没有虚析构函数的情况下，通过父类指针析构子类对象？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md",
+                "file": "_posts/2023-10-24-如何实现一个类，在父类没有虚析构函数的情况下，通过父类指针析构子类对象？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md"
+                "file": "_posts/2023-10-24-如何实现一个类，在父类没有虚析构函数的情况下，通过父类指针析构子类对象？.md"
               }
             }
           },
@@ -190,15 +157,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "f412506b25261b11",
+  "active": "9bd9457df7b9763f",
   "lastOpenFiles": [
+    "未命名.md",
+    "_posts/2023-10-24-如何实现一个类，在父类没有虚析构函数的情况下，通过父类指针析构子类对象？.md",
+    "_posts/2023-8-11-xHook.md",
+    "aboutme.md",
     "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
     "_posts/2023-8-15-bhook.md",
     "_posts/2023-8-18-C++中string的SSO优化.md",
     "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
     "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
     "_posts/2023-9-14-C++实现：给定一个整数N，输出一个类型是N个int的tuple.md",
-    "_posts/2023-8-11-xHook.md",
     "_posts/2023-8-18-C++ 初始化列表实现print.md",
     "_posts/2023-8-18-C++ 为何引入常量迭代器 cbegin 和 cend？.md",
     "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
@@ -224,9 +194,6 @@
     "assets/img/2023-9-5-对智能指针作为函数参数的理解",
     "_posts/2023-8-30-PLT和GOT调用图.md",
     "_config.yml~",
-    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
-    "_posts/2023-8-17-如何比较两个浮点数.md",
-    "_posts/2023-8-24-静态链接与动态链接的宏观概述及微观详解.md",
     "assets/img/2023-8-15-bhook/eb15e66728fc0026d722891a9b3d7572_MD5.png",
     "assets/img/2023-8-15-bhook/621c4e84f414635fbf4d30152a7360b5_MD5.png",
     "assets/img/2023-8-15-bhook/7b93506c02680ea56740982b8c1b4ec4_MD5.png",
