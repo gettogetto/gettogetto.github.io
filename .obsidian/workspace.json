@@ -40,9 +40,19 @@
                 "currentVersion": "1.4.13"
               }
             }
+          },
+          {
+            "id": "f412506b25261b11",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +190,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "74302da7abd3d53c",
+  "active": "f412506b25261b11",
   "lastOpenFiles": [
     "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
     "_posts/2023-8-15-bhook.md",
