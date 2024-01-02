@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
+                "file": "_posts/2024-1-2-C++中Crash定位原理与常见案例反汇编分析.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
+                "file": "_posts/2024-1-2-C++中Crash定位原理与常见案例反汇编分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
+                "file": "_posts/2024-1-2-C++中Crash定位原理与常见案例反汇编分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md"
+                "file": "_posts/2024-1-2-C++中Crash定位原理与常见案例反汇编分析.md"
               }
             }
           },
@@ -159,6 +159,20 @@
   },
   "active": "9bd9457df7b9763f",
   "lastOpenFiles": [
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/41a805df64b4ed2e8b8423b658babac0_MD5.jpg",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/0b26d2be5dd643299411f851e6d29eee_MD5.jpg",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/e38e0c5881940fd96ca543fd8e13f622_MD5.jpg",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/a935fc79ca6b914b8f2feb68a273668f_MD5.jpg",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/5a534a40b31efd731125f68eabc3adf4_MD5.jpg",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/53eac52a5e7588760e4593702c767690_MD5.png",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/bafbd4baf31ed96e1e925601346ba9e8_MD5.jpg",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/ed5d885d241b6f87450cf355d28efe60_MD5.jpg",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/87f090f83c860a05803feebc2819e1d0_MD5.jpg",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/410e751d6ba29c33590734bea637981a_MD5.jpg",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析/5fa6ec4fe96dc5d308124c8d9880da4f_MD5.png",
+    "assets/img/2024-1-2-C++中Crash定位原理与常见案例反汇编分析",
+    "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
+    "_posts/2024-1-2-C++中Crash定位原理与常见案例反汇编分析.md",
     "_posts/2023-8-30-PLT和GOT调用图.md",
     "_posts/2023-8-17-如何比较两个浮点数.md",
     "_posts/2023-8-15-bhook.md",
@@ -182,28 +196,14 @@
     "_posts/2023-8-18-C++ 为何引入常量迭代器 cbegin 和 cend？.md",
     "_posts/2023-8-14-Linux动态链接为什么要用PLT和GOT表.md",
     "模板.md",
-    "_posts/2023-9-5-深入浅出C++类型擦除(3).md",
-    "_posts/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解.md",
-    "_posts/2023-9-5-深入浅出C++类型擦除(2).md",
-    "assets/img/2023-9-5-移动与右值/9c342b83327d9397b9a58206ce996ab6_MD5.jpg",
-    "assets/img/2023-9-5-移动与右值/722ff3ad87bb50ee3dd32a516b221cf3_MD5.jpg",
-    "assets/img/2023-9-5-移动与右值/3c136901ee9506838ded087e321585f8_MD5.jpg",
     "assets/img/2023-9-5-移动与右值",
-    "assets/img/2023-9-5-深入浅出C++类型擦除(3)/746306d1e0fdc1e4d15fceb7f4b5d155_MD5.jpg",
     "assets/img/2023-9-5-深入浅出C++类型擦除(3)",
-    "assets/img/2023-9-5-对智能指针作为函数参数的理解/099c5443ce35ae788514409bafb79a44_MD5.jpg",
     "assets/img/2023-9-5-对智能指针作为函数参数的理解",
     "_config.yml~",
-    "assets/img/2023-8-15-bhook/eb15e66728fc0026d722891a9b3d7572_MD5.png",
-    "assets/img/2023-8-15-bhook/621c4e84f414635fbf4d30152a7360b5_MD5.png",
-    "assets/img/2023-8-15-bhook/7b93506c02680ea56740982b8c1b4ec4_MD5.png",
-    "assets/img/2023-8-15-bhook/a56a8d98073065497dcd6199d22e1316_MD5.png",
-    "assets/img/2023-8-15-bhook/788fac513a18f504a26cc6d4a369a6ad_MD5.png",
     "assets/img/2023-8-15-bhook",
     "assets/img/2023-8-30-PLT和GOT调用图",
     "assets/img/2023-8-30-延迟重定位_PLT重定位",
     "assets/img/身高科普",
-    "assets/img/未命名",
-    "assets/img/2023-8-24-C代码对汇编代码中声明的全局符号的访问方式详解"
+    "assets/img/未命名"
   ]
 }
