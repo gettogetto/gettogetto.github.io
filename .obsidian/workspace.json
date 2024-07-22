@@ -23,9 +23,11 @@
             "id": "e4bc58a7f495c91a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-4-10-TCP 连接，一端断电和进程崩溃有什么区别.md",
+                "file": "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-4-10-TCP 连接，一端断电和进程崩溃有什么区别.md",
+                "file": "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-4-10-TCP 连接，一端断电和进程崩溃有什么区别.md"
+                "file": "_posts/2023-8-11-动态链接及地址无关代码 (PIC).md"
               }
             }
           },
@@ -172,6 +174,7 @@
   },
   "active": "e4bc58a7f495c91a",
   "lastOpenFiles": [
+    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "_posts/2024-1-25-c++字符串混淆方案总结.md",
     "_posts/2024-4-10-TCP 连接，一端断电和进程崩溃有什么区别.md",
     "assets/img/未命名/b3704f4775740deda19aee2f94b368f2_MD5.jpg",
@@ -198,7 +201,6 @@
     "_posts/2023-8-18-C++中string的SSO优化.md",
     "_posts/2023-8-18-C++模板参数递归获取最内层的类型参数.md",
     "_posts/2023-8-11-xHook.md",
-    "_posts/2023-8-11-操作系统底层特权级机制详述.md",
     "_posts/2023-8-11-CPU Cache .md",
     "_posts/2023-8-15-C++模板参数依赖于可变模板参数.md",
     "_posts/2023-8-18-Copy move elision C++ 17 vs C++ 11.md",
